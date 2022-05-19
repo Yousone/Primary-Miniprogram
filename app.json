@@ -1,0 +1,39 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/yemian1/yemian1"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#E7624F",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle":"white"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "color": "#000000",
+    "list": [
+      {
+       "pagePath": "pages/index/index",
+       "text": "今天吃啥",
+       "iconPath": "./pages/images/吃啥1 .jpg",
+       "selectedIconPath": "./pages/images/吃啥2.jpg"
+      },
+       {
+      "pagePath": "pages/logs/logs",
+      "text": "主页",
+      "iconPath": "./pages/images/主页1.jpg",
+      "selectedIconPath": "./pages/images/主页2.jpg"
+      
+       },
+       {
+        "pagePath": "pages/yemian1/yemian1",
+        "text": "美食地图",
+        "iconPath": "./pages/images/地图1.jpg",
+        "selectedIconPath": "./pages/images/地图2.jpg"
+       }
+      ]
+  }
+}

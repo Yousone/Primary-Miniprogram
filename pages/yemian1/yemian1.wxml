@@ -1,0 +1,10 @@
+<!--pages/yemian1/yemian1.wxml-->
+<button class="start" style="position: relative; left: 0rpx; top: 929rpx; width: 340rpx; height: 111rpx; display: block; box-sizing: border-box">周边查找</button>
+<view class="start" style="width: 265rpx; height: 83rpx; display: block; box-sizing: border-box">校内美食地图</view>
+<view style="width: 750rpx; background: #d1d1d1; height: 608rpx; display: block; box-sizing: border-box"></view>
+
+
+
+
+
+

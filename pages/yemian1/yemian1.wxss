@@ -1,0 +1,11 @@
+/* pages/yemian1/yemian1.wxss */
+.start{
+  width: 280rpx;
+  height: 90rpx;
+  line-height: 90rpx;
+  text-align: center;
+  margin: 0 auto;
+  border:2rpx solid red ;
+  color: rgb(219, 24, 24);
+  border-radius: 20rpx;
+}

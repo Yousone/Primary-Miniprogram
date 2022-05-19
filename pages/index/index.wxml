@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view class="start" style="width: 272rpx; height: 92rpx; display: block; box-sizing: border-box">今天吃啥</view>
+
+ 
+
