@@ -10,10 +10,9 @@
     "navigationBarTitleText": "Weixin",
     "navigationBarTextStyle":"white"
   },
-  "style": "v2",
   "sitemapLocation": "sitemap.json",
   "tabBar": {
-    "color": "#000000",
+    "color": "#000000o",
     "list": [
       {
        "pagePath": "pages/index/index",
@@ -36,4 +35,5 @@
        }
       ]
   }
+   
 }

@@ -1,0 +1,24 @@
+{
+  "name": "documents",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "npm": "^8.5.5",
+    "corepack": "^0.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yousone/Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yousone/Testing/issues"
+  },
+  "homepage": "https://github.com/Yousone/Testing#readme"
+}

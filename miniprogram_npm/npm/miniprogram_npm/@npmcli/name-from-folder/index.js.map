@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":[],"mappings":";;;;;;;AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"index.js","sourcesContent":["const { basename, dirname } = require('path')\n\nconst getName = (parent, base) =>\n  parent.charAt(0) === '@' ? `${parent}/${base}` : base\n\nmodule.exports = dir => dir ? getName(basename(dirname(dir)), basename(dir))\n  : false\n"]}

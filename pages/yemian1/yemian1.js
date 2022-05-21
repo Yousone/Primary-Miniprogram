@@ -1,6 +1,6 @@
 // pages/yemian1/yemian1.js
 wx.navigateToMiniProgram({
-  appId: 'wx7643d5f831302ab0',  //appid
+  appId: 'wx7643d5f831302ab0o',  //appid
   path: 'http://map.qq.com/',//path
   extraData: {  //参数
     foo: 'bar'

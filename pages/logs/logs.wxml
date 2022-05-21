@@ -1,6 +1,6 @@
 <slider min="1" max="50" ></slider>
 
-
+<van-search value="{{ value }}" placeholder="请输入搜索关键词" />
 
 <text style="position: relative; left: 286rpx; top: 706rpx">开心一笑</text>
 <view style="position: relative; width: 701rpx; background: #d3d3d3; height: 230rpx; left: 24rpx; top: 743rpx; display: block; box-sizing: border-box"></view>
