@@ -1,0 +1,27 @@
+
+
+
+
+<text style="position: relative; left: 286rpx; top: 706rpx">开心一笑</text>
+<view style="position: relative; width: 701rpx; background: #d3d3d3; height: 230rpx; left: 24rpx; top: 743rpx; display: block; box-sizing: border-box"></view>
+<text style="position: relative; left: 296rpx; top: -471rpx"></text>
+
+              <view style="display:flex; flex-direction:column; height: 150px; padding: 10px; margin-bottom: 10px;">
+                <view style="background-color: #F1F1F1; flex: 1;">早餐：xxx<view>地址：xxxxxxx</view></view>
+                <view style="background-color: #E6E6E6; flex: 1;">午餐：xxx<view>地址：xxxxxxx</view></view>
+                <view style="background-color: #F1F1F1; flex: 1;">晚餐：xxx<view>地址：xxxxxxx</view></view>
+              </view>
+<text style="position: relative; left: 299rpx; top: -471rpx">每日推荐</text>
+
+            
+
+
+            
+
+
+
+
+
+
+
+

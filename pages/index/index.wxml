@@ -1,0 +1,13 @@
+<!--index.wxml-->
+<view class="start" style="width: 272rpx; height: 92rpx; display: block; box-sizing: border-box">今天吃啥</view>
+
+              <view style="display: flex; flex-direction: row; height: 502rpx; padding: 10px; margin: 10px; width: 704rpx; box-sizing: border-box">
+                <view style="background-color: #F1F1F1; flex: 1;"></view>
+                <view style="background-color: #E6E6E6; width: 218rpx; height: 455rpx; display: block; box-sizing: border-box"></view>
+                <view style="background-color: #F1F1F1; flex: 1;"></view>
+              </view>
+            
+
+
+ 
+
